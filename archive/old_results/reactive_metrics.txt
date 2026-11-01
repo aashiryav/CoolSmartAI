@@ -1,6 +1,0 @@
-=== TEST REACTIVE METRICS ===
-Max temp (C): 105.02
-Avg temp (C): 74.84
-Time > 80C (seconds): 277
-Total cooling cost units: 1003
-Saved data/test_reactive.csv and plot results/test_reactive_0_200s.png
