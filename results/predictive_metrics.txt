@@ -1,0 +1,6 @@
+=== TEST PREDICTIVE METRICS ===
+Max temp (C): 149.64
+Avg temp (C): 77.72
+Time > 80C (seconds): 756
+Total cooling cost units: 1088
+Saved data/test_predictive.csv and results/test_predictive_temps.png
